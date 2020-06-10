@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders nulls for invalid page 1`] = `
+<DocumentFragment>
+  <div>
+    Layout Mock
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders ports page 1`] = `
+<DocumentFragment>
+  <div>
+    Layout Mock
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders ports page 2`] = `
+<DocumentFragment>
+  <div>
+    Ports Page
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders vessels page 1`] = `
+<DocumentFragment>
+  <div>
+    Layout Mock
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders vessels page 2`] = `
+<DocumentFragment>
+  <div>
+    Vessels Page
+  </div>
+</DocumentFragment>
+`;

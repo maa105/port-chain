@@ -1,0 +1,24 @@
+{
+  "name": "port-chain-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test:frontend",
+    "start": "gulp run:frontend",
+    "startup": "npm i&&gulp install:frontend&&npm start",
+    "build": "gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.1",
+    "fs-extra": "^9.0.1",
+    "globs": "^0.1.4",
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.0.1",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.5",
+    "react-router-maa": "^2.0.5"
+  }
+}

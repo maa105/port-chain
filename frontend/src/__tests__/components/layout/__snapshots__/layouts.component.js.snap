@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`layout renders header and content 1`] = `
+<DocumentFragment>
+  <div>
+    Header Mock
+  </div>
+  <div>
+    Content Mock
+  </div>
+</DocumentFragment>
+`;
+
+exports[`layout renders header and content 2`] = `
+<DocumentFragment>
+  <div>
+    Top Mock
+  </div>
+</DocumentFragment>
+`;
